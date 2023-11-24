@@ -16,7 +16,7 @@ localhost-key.pem
 localhost.pem
 
 # Editor directories and files
-.env
+
 .vscode/*
 !.vscode/extensions.json
 .idea
